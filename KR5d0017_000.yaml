@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5d0017/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周易參同契注(二)
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:59:19.768426'
+  source:
+    repository: kanripo
+    path: KR5d0017/KR5d0017_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:a8b673dd890055a3b81fe62f92e1a7e045c566ed8b8a30129e6731cb96a9e1bb
